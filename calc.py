@@ -12,3 +12,4 @@ def divide(x,y):
 #    pass
 def square(x,y):
     pass    
+#first thing to do as merge but with rebase
